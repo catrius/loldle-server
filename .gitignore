@@ -244,3 +244,5 @@ Temporary Items
 /.idea/jsLibraryMappings.xml
 /.idea/loldle-server.iml
 /.idea/modules.xml
+
+/.idea/*
